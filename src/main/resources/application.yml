@@ -1,0 +1,9 @@
+server:
+  port: ${PORT:8080}
+
+bfhl:
+  user:
+    name: "ajinkya_sukhtankar"
+    dob: "05022005"
+    email: "ajinkyasukhtankar230619@acropolis.in"
+    roll-number: "0827CS231023"
